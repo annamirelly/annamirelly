@@ -19,7 +19,7 @@
 
 <img alt="Static Badge" align='center' src="https://img.shields.io/badge/Python-cba6f7?style=flat&logo=python&logoColor=cba6f7&labelColor=1e1e2e">
 |
-<img height='64' src='images/Screenshot_2025-09-09-11-29-02-380_com.android.chrome.jpg' alt='JS'>
+<img height='64' src='imagens/IMG_20250909_125452.jpg'alt='JS'/>
 
 </div>
 
