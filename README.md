@@ -52,7 +52,7 @@ Sistema Operacional:
 
 Editor de código:
 
-<img height='64' src='assets/images/logos/vscode.png' alt='Visual Studio Code'>
+![vscode](Screenshot_2025-09-09-11-25-10-425_com.github.android.jpg)
 <img height="64" src="https://cdn.simpleicons.org/neovim" alt='NeoVim'/>
 
 <br>
