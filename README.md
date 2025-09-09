@@ -64,7 +64,6 @@ Uso:
 <img height="64" width='64' src="https://cdn.simpleicons.org/html5/cba6f7" alt='HTML'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/cplusplus/cba6f7" alt='C++'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/mysql/cba6f7" alt='MySQL'/>
-<img height='64' src='imagens/IMG_20250909_125452.jpg'>
 
 Pretendo Usar:
 
@@ -74,6 +73,7 @@ Pretendo Usar:
 <img height="64" width='64' src="https://cdn.simpleicons.org/vite/cba6f7" alt='Vite'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/react/cba6f7" alt='React'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/sass/cba6f7" alt='Sass'/>
+<img height='64' src='imagens/IMG_20250909_125452.jpg'>
 
 </div>
 
