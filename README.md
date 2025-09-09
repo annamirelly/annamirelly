@@ -44,7 +44,7 @@
 
 Sistema Operacional:
 
-<img height="64" src="https://cdn.simpleicons.org/archlinux/cba6f7" alt='Arch Linux'/>
+<img height="64" src="imagens/IMG_20250909_125613.png" alt='linux'/>
 
 <br>
 
