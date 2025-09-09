@@ -78,5 +78,5 @@ Pretendo Usar:
 <div align='center'>
 </div>
 </center>
-## Contato
+<h2>Contato</h2>
 annam.dev@outlook.com
