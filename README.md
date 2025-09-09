@@ -74,7 +74,8 @@ Pretendo Usar:
 <img height="64" width='64' src="https://cdn.simpleicons.org/vite/cba6f7" alt='Vite'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/react/cba6f7" alt='React'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/sass/cba6f7" alt='Sass'/>
-<img height="64" width='64' src ="imagens/IMG_20250909_125452.jpg" alt='JavaScript '/>
+<img height="64" width='64' src ="imagens/IMG_20250909_125452.jpg" alt='JavaScript'/>
+<img height="64" width='64' src=" assets/svgs/java.svg" alt='Java'/>
 </div>
 
 <div align='center'>
