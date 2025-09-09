@@ -6,8 +6,6 @@
 
 <center>
 <div>
-<p align='center'><b>Made with <a href='https://catppuccin.com/'><img align='center' width='32px' src='assets/images/logos/catppuccin.png'></a></b></p>
-<br>
 </div>
 
 </center>
