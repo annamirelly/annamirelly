@@ -50,7 +50,7 @@ Sistema Operacional:
 
 Editor de código:
 
-![vscode](Screenshot_2025-09-09-11-25-10-425_com.github.android.jpg)
+![vscode](imagens/IMG_20250909_125554.png)
 <img src="vscode" width="300"/>
 <img height="64" src="https://cdn.simpleicons.org/neovim" alt='NeoVim'/>
 
