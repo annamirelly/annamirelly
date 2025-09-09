@@ -18,7 +18,6 @@
 <h2>Linguagens mais usadas:</h2>
 
 <img alt="Static Badge" align='center' src="https://img.shields.io/badge/Python-cba6f7?style=flat&logo=python&logoColor=cba6f7&labelColor=1e1e2e">
-|
 </div>
 
 <div>
