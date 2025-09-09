@@ -67,7 +67,7 @@ Uso:
 <img height="64" width='64' src="https://cdn.simpleicons.org/php/cba6f7" alt='PHP'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/html5/cba6f7" alt='HTML'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/css/cba6f7" alt='CSS'/>
-<img height="64" width='64' src="https://cdn.simpleicons.org/tailwindcss/cba6f7" alt='Tailwind CSS'/>
+<img height="64" width='64' src="https://cdn.simpleicons.org/cplusplus/cba6f7" alt='C++'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/mysql/cba6f7" alt='MySQL'/>
 
 Pretendo Usar:
