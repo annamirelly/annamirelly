@@ -50,8 +50,7 @@ Sistema Operacional:
 
 Editor de código:
 
-![vscode](imagens/IMG_20250909_125554.png)
-<img src="vscode" width="300"/>
+<img height='64' src='imagens/IMG_20250909_125554.png'>
 <img height="64" src="https://cdn.simpleicons.org/neovim" alt='NeoVim'/>
 
 <br>
