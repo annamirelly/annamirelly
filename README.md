@@ -63,9 +63,7 @@ Linguagens/Tecnologias que uso e pretendo usar:
 Uso:
 
 <img height="64" width='64' src="https://cdn.simpleicons.org/python/cba6f7" alt='Python'/>
-<img height="64" width='64' src="https://cdn.simpleicons.org/php/cba6f7" alt='PHP'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/html5/cba6f7" alt='HTML'/>
-<img height="64" width='64' src="https://cdn.simpleicons.org/css/cba6f7" alt='CSS'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/cplusplus/cba6f7" alt='C++'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/mysql/cba6f7" alt='MySQL'/>
 
@@ -73,9 +71,7 @@ Pretendo Usar:
 
 <img height="64" width='64' src="https://cdn.simpleicons.org/typescript/cba6f7" alt='TypeScript'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/rust/cba6f7" alt='Rust'/>
-<img height="64" width='64' src="assets/svgs/java.svg" alt='Java'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/c/cba6f7" alt='C'/>
-<img height="64" width='64' src="https://cdn.simpleicons.org/cplusplus/cba6f7" alt='C++'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/vite/cba6f7" alt='Vite'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/react/cba6f7" alt='React'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/sass/cba6f7" alt='Sass'/>
