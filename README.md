@@ -11,7 +11,7 @@
 </center>
 
 <h1 align='center'>Olá, eu sou Anna Mirelly</h1>
-<p align='justify'>Estudante de sistemas de informação. Meu principal objetivo é contribuir ativamente em <b>projetos impactantes e inovadores</b>. Possuo foco em <b>produtividade, trabalho em equipe, otimização e segurança.</b></p>
+<p align='justify'>Estudante de sistemas de informação. Meu principal objetivo é atuar na área de <b>segurança cibernética</b>, buscando constantemente aprimorar meus conhecimentos em proteção de dados, análise de vulnerabilidades e prevenção de ataques digitais. Sou motivada por desafios que envolvem tecnologia e segurança, e meu foco é contribuir para ambientes digitais mais seguros e confiáveis. Possuo foco em <b>produtividade, trabalho em equipe, otimização e segurança.</b></
 
 <center>
 <div>
