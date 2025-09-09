@@ -79,4 +79,4 @@ Pretendo Usar:
 </div>
 </center>
 <h2>Contato</h2>
-<a href="annam.dev@outlook.com?subject=Assunto&body=annam.dev@outlook.com">Enviar email</a>
+<a href='annam.dev@outlook.com'><b>annam.dev@outlook.com</b></a
