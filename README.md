@@ -79,4 +79,6 @@ Pretendo Usar:
 </div>
 </center>
 <h2>Contato</h2>
-annam.dev@outlook.com
+<a href='Email'><b>EMAIL</b></a
+
+>
