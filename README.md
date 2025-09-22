@@ -51,7 +51,7 @@ Sistema Operacional:
 
 Editor de código:
 
-<img height='64' src="https://cdn.simpleicons.org/vscode">
+<img height='64' src="https://cdn.simpleicons.org/vscode" alt='Vscode'/>
 <img height="64" src="https://cdn.simpleicons.org/neovim" alt='NeoVim'/>
 
 <br>
