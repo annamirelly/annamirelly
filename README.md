@@ -45,13 +45,13 @@
 
 Sistema Operacional:
 
-<img height="64" src="Linux_logo.jpg" alt='linux'/>
+<img height="64" src="https://cdn.simpleicons.org/linux" alt='linux'/>
 
 <br>
 
 Editor de código:
 
-<img height='64' src='https://cdn.simpleicons.org/vscode'>
+<img height='64' src="https://cdn.simpleicons.org/vscode">
 <img height="64" src="https://cdn.simpleicons.org/neovim" alt='NeoVim'/>
 
 <br>
