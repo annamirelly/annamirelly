@@ -45,7 +45,7 @@
 
 Sistema Operacional:
 
-<img height="64" src="imagens/IMG_20250909_125613.png" alt='linux'/>
+<img height="64" src="Linux_logo.jpg" alt='linux'/>
 
 <br>
 
@@ -73,7 +73,7 @@ Pretendo Usar:
 <img height="64" width='64' src="https://cdn.simpleicons.org/vite/cba6f7" alt='Vite'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/react/cba6f7" alt='React'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/sass/cba6f7" alt='Sass'/>
-<img height="64" width='64' src ="imagens/IMG_20250909_125452.jpg" alt='JavaScript'/>
+<img height="64" width='64' src ="Unofficial_JavaScript_logo_2.svg.png" alt='JavaScript'/>
 </div>
 
 <div align='center'>
