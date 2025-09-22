@@ -73,7 +73,7 @@ Pretendo Usar:
 <img height="64" width='64' src="https://cdn.simpleicons.org/vite/cba6f7" alt='Vite'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/react/cba6f7" alt='React'/>
 <img height="64" width='64' src="https://cdn.simpleicons.org/sass/cba6f7" alt='Sass'/>
-<img height="64" width='64' src ="Unofficial_JavaScript_logo_2.svg.png" alt='JavaScript'/>
+<img height="64" width='64' src ="https://cdn.simpleicons.org/javascript/cba6f7" alt='JavaScript'/>
 </div>
 
 <div align='center'>
