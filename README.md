@@ -7,9 +7,7 @@
 <center>
 <div>
 </div>
-
 </center>
-
 <p align='justify'>Sou uma entusiasta de cibersegurança com especialização em <b>hacking ético, redes e Linux</b>. Estudo diariamente <b>vulnerabilidades, CTFs e técnicas de pentest ofensivo</b>. Meu objetivo é proteger sistemas, automatizar segurança e criar soluções inteligentes.
 
 <center>
